@@ -8,6 +8,9 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Fooocus-colab/blob/main/Fooocus_colab.ipynb) | Fooocus_colab
 
+## 105 styles [prompt: cat] 🐈
+https://github.com/camenduru/Fooocus-colab/issues/1#issuecomment-1675893489
+
 ## Main Repo
 https://github.com/lllyasviel/Fooocus (Thanks to @lllyasviel ❤) <br />
 https://github.com/AUTOMATIC1111/stable-diffusion-webui <br />
