@@ -9,7 +9,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Fooocus-colab/blob/main/Fooocus_colab.ipynb) | Fooocus_colab
 
 ## Main Repo
-https://github.com/lllyasviel/Fooocus (Thanks to @lllyasviel ❤)
+https://github.com/lllyasviel/Fooocus (Thanks to @lllyasviel ❤) <br />
+https://github.com/AUTOMATIC1111/stable-diffusion-webui <br />
+https://github.com/comfyanonymous/ComfyUI <br />
 
 ## Paper
 https://arxiv.org/abs//2307.01952
