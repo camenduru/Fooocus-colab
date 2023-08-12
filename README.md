@@ -12,6 +12,7 @@
 https://github.com/lllyasviel/Fooocus
 
 ## Paper
+https://arxiv.org/abs//2307.01952
 
 ## Output
 ![Screenshot 2023-08-12 030302](https://github.com/camenduru/Fooocus-colab/assets/54370274/e2ca67b7-4299-4b18-b99f-7c169baa9d6f)
