@@ -14,6 +14,7 @@
 https://github.com/camenduru/Fooocus-colab/issues/1#issuecomment-1675893489
 - Fooocus_Style_Reference (thanks to @Semonxue ❤)
 https://docs.google.com/spreadsheets/d/1AF5bd-fALxlu0lguZQiQVn1yZwxUiBJGyh2eyJJWl74
+- https://github.com/lllyasviel/Fooocus/discussions/143 (thanks to @Elathi ❤)
 
 ## Main Repo
 https://github.com/lllyasviel/Fooocus (Thanks to @lllyasviel ❤) <br />
