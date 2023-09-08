@@ -10,7 +10,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Fooocus-colab/blob/main/juggernaut_xl_fooocus_colab.ipynb) | juggernaut_xl_fooocus_colab <br /> [KandooAI/juggernaut-xl](https://civitai.com/models/133005/juggernaut-xl) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Fooocus-colab/blob/main/sd_xl_fooocus_colab.ipynb) | sd_xl_fooocus_colab <br /> [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/colab.ipynb) | Fooocus Colab (Official Version)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MoonRide303/Fooocus-MRE/blob/moonride-main/colab.ipynb) | Fooocus-MRE Colab (Thanks to @MoonRide303)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MoonRide303/Fooocus-MRE/blob/moonride-main/colab.ipynb) | Fooocus-MRE Colab (Thanks to @MoonRide303 ❤)
 
 ## Style Reference
 - 105 styles [prompt: cat] 🐈
