@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/colab.ipynb) | Fooocus Colab (Official Version)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb) | Fooocus Colab (Official Version)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MoonRide303/Fooocus-MRE/blob/moonride-main/colab.ipynb) | Fooocus-MRE Colab (Thanks to @MoonRide303 ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Fooocus-colab/blob/main/rundiffusion_xl_fooocus_colab.ipynb) | rundiffusion_xl_fooocus_colab <br /> [RunDiffusion/rundiffusion-xl](https://civitai.com/models/120964/rundiffusion-xl) (Old Version)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Fooocus-colab/blob/main/juggernaut_xl_fooocus_colab.ipynb) | juggernaut_xl_fooocus_colab <br /> [KandooAI/juggernaut-xl](https://civitai.com/models/133005/juggernaut-xl) (Old Version)
